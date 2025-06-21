@@ -73,6 +73,7 @@ div.content {
     section {
         display: block;
         height: 100%;
+        width: 80%;
     }
     img.image-desktop {
         display: none;
