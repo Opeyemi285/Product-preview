@@ -74,6 +74,7 @@ div.content {
         display: block;
         height: 100%;
         width: 80%;
+        margin-top: 5px;
     }
     img.image-desktop {
         display: none;
@@ -85,3 +86,4 @@ div.content {
     }
     
 }
+
